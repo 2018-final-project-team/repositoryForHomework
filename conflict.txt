@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Let's have some conflicts.
 OK, let's do it.
 
 I am done, too. -- He Liren
+=======
+Let's have some conflicts1.
+OK, let's do it.
+
+I am done, too. --He Liren
+>>>>>>> 5e80f8d5a663e0e05c2836874ea18d3f5322a493
