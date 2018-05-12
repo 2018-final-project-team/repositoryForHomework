@@ -1,0 +1,5 @@
+I change a line in conflict.txt.
+I change conflicts to conflicts2.
+
+I add a line in conflict.txt.
+"I am done, too. -- Wang Liang"
