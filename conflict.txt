@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-Let's have some conflicts2.
-=======
-Let's have some conflicts.
 
->>>>>>> 1558690971975c21fbab0ac83ba789b1a6e179be
+Let's have some conflicts2.
+
 OK, let's do it.
 
 I am done, too. -- He Liren
 
-<<<<<<< HEAD
 I am done, too. -- Wang Liang
-=======
->>>>>>> 1558690971975c21fbab0ac83ba789b1a6e179be
+
